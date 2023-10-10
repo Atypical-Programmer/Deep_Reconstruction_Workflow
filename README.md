@@ -50,6 +50,15 @@ python DenseReconstruction.py --dir PATH_TO_PROJECT_DIR/
 ```
 The parameters can be modified in the file.
 
+## Acknowledgment
+We acknowledge the contributions of the following open-source projects and their authors：
+```
+https://github.com/colmap/colmap
+https://github.com/cavalli1234/AdaLAM
+https://github.com/naver/r2d2
+https://github.com/Xbbei/super-colmap
+```
+
 ## Citation
 If you find our research useful, please cite this paper:
 ```
