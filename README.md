@@ -1,7 +1,7 @@
  # RPFeat : Robust Planetary Feature
  This repository contains the implementation of the following paper:
  ```
- coming soon ...
+Zhong, J., Yan, J., Li, M., & Barriot, J. P. (2023). A deep learning-based local feature extraction method for improved image matching and surface reconstruction from Yutu-2 PCAM images on the Moon. ISPRS Journal of Photogrammetry and Remote Sensing, 206, 16-29.
  ```
 
  ## Configuration
@@ -62,5 +62,13 @@ https://github.com/Xbbei/super-colmap
 ## Citation
 If you find our research useful, please cite this paper:
 ```
-coming soon ...
+@article{zhong2023deep,
+  title={A deep learning-based local feature extraction method for improved image matching and surface reconstruction from Yutu-2 PCAM images on the Moon},
+  author={Zhong, Jiageng and Yan, Jianguo and Li, Ming and Barriot, Jean-Pierre},
+  journal={ISPRS Journal of Photogrammetry and Remote Sensing},
+  volume={206},
+  pages={16--29},
+  year={2023},
+  publisher={Elsevier}
+}
 ```
